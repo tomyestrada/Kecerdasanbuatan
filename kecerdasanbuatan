@@ -1,0 +1,61 @@
+#kecerdasanbuatan
+Artificial Intelligence
+
+Nama 		: Tomy Estrada
+Nim     	: 13.111.4111
+Kelas   	: TP-B Pagi
+Matakuliah	: Kecerdasan Buatan
+
+1.      Apakah anda setuju aau tidak dengan pendapat Turing?
+
+Setuju, tes turing dilakukan untuk mengetahui apakah sebuah mesin bisa berpikir seperti manusia atau memiliki Artificial Intelligence (AI). Logika dan penalaran manusia diaplikasikan pada mesin untuk membantu kebutuhan dan masalah tertentu, kemampuan mesin yang memiliki Artificial Intelligence (AI) dalam menyelesaikan masalah lebih cepat dibandingkan dengan manusia dengan resiko kesalahan yang kecil, tetapi mesin tersebut memiliki kemampuan berpikir sangat terbatas, dibandingkan dengan penalaran manusia yang lebih sempurna.
+
+2.    Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
+
+Tidak, karena komputer sendiri diciptakan oleh manusia, oleh karena itu manusia pasti lebih pintar dari komputer, Contoh Robot Humanoid Honda yaitu Asimo salah satu dari kecerdasan buatan, robot tersebut bisa melakukan melakukan aktifitas – aktifitas dasar pada kegiatan sehari – hari tapi Asimo tidak bisa berkomunikasi dengan baik dengan manusia, jika nanti akan ada pengembangan dari Asimo agar bisa berinteraksi dengan manusia tentu tidak akan pernah serupa dengan manusia baik dari komunikasi dan respon.
+
+3.  Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
+
+Penalaran, pola pikir dan emosional tidak ada dalam komputer seperti halnya pada manusia yang memiliki penalaran, pola pikir dan emosional. 
+4.   Istilah-istilah dalam AI serta implementasinya
+
+a.	Pengolahan Bahasa Alami
+
+Pemrosesan Bahasa Alami atau Natural Language Processing (NLP) adalah komponen penting dalam text mining dan subbidang dalam kecerdasan buatan (artificial intelligence/AI) dan komputasi linguistic yang berkaitan dengan interaksi antara komputer dan bahasa alami manusia bagaimana ‘memahami’  bahasa manusia alami, dengan cara mengubah gambaran bahasa manusia (seperti dokumen teks) menjadi penyajian yang lebih formal (dalam bentuk data numeric dan sombolik) yang lebih mudah untuk dimanupulasi oleh program computer. Tujuan NLP adalah untuk melangkah melebihi manipulasi teks berbasis sintaks (yang sering kali disebut dengan ‘word counting’) ke pemahaman yang benar dan memproses bahasa alami yang mempertimbangkan berbagai batasan semantik dan gramatikal dan juga konteks. Pengolahan Bahasa Alami merupakan metode komunikasi AI dengan komputer yang menggunakan bahasa Inggris atau bahasa lainnya yang kita gunakan.
+Contohnya:
+•	Online translator, Online translator yang dimaksud disini adalah translator yang secara otomatis dapat menerjemahkan kalimat lisan dari suatu bahasa alami (misalnya Bahasa Inggris) menjadi ucapan hasil terjemahannya dalam bahasa alami lainnya (misalnya Bahasa Indonesia). Online translator terdiri dari 3 bagian. Bagian pertama, speech recognition, berfungsi untuk mengenali rangkaian kata dari bahasa sumber menjadi teks dalam bahasa sumber. Bagian berikutnya adalah translator teks ke teks. Hasil bagian kedua ini adalah kalimat bahasa tujuan yang masih berupa teks. Bagian ketiga berupa sistem TTS dalam bahasa tujuan. Aplikasi seperti ini mungkin untuk dikembangkan, karena teknologi speech recognition sudah banyak dikembangkan. Translator bahasa pun sudah banyak dikembangkan, termasuk translator Bahasa Inggris ke Indonesia .
+
+b.	Knowledge representation
+Knowledge Representation merupakan sentral komponen dari kecerdasan buatan. Secara informal, knowledge representation adalah himpunan tentang fakta- fakta yang berhubungan dengan lingkungan. Knowledge Representation dapat dibuat untuk menjadi independen dari model pengetahuan yang mendasari atau sistem basis pengetahuan.
+Contoh :
+•	MYCIN	> Memberikan diagnosa dan solusi pengobatan penyakit.
+•	MACSYMA 	> Menangani masalah matematika.
+•	FOLIO 	> Membantu memberikan keputusan bagi seorang manajer dalam hal 		    stok broker dan investasi.
+
+c.	Automated Reasoning
+  Automated Reasoning adalah seni dan ilmu yang menjadikan komputer untuk  menerapkan penalaran logis dalam memecahkan masalah, misalnya untuk membuktikan teorema, memecahkan teka-teki, sirkuit desain, verifikasi atau mensintesis program komputer.
+Contoh penerapan menggunakan automated reasoning yaitu software MedicWare dilengkapi dengan ribuan pengetahuan tentang jenis, merek, efek samping dan interaksi berbagai jenis obat- obatan.
+
+d.	Machine Learning
+Machine learning adalah  ilmu yang mempelajari cara memberikan kaemampuan kepada komputer untuk menyelesaikan masalah secara mandiri tanpa bantuan user. Sebuah studi yang mempelajari cara memprogram mesin atau komputer  dengan contoh data dan pengalaman yang ada Algoritma machine learning dapat diatur dalam taksonomi berdasarkan hasil yang diinginkan dari algoritma, antara lain:
+•	Learning Associations : Menemukan hubungan antar data.
+			   Contohnya: analisis kantong belanja.
+•	Supervised learning   	: Kita dapat mempelajari sebuah pemetaan data dari input ke 			   output. Hasil nilai yang benar telah diberikan dari supervisor. Tipe pembelajarannya:
+•        		   - Klasifikasi
+•         		   -Regresi.
+•	Reinforcement learning: proses ini mempelajari bagaimana pengalaman memecahkan 					    suatu permasalahan.
+
+
+
+e.	Computer Vision
+Computer vision adalah bidang yang mencakup metode untuk memperoleh, mengolah, menganalisis, dan memahami data visual seperti gambar dan video. Tujuan utama dari Computer Vision adalah agar komputer atau mesin dapat meniru kemampuan perseptual mata manusia dan otak, atau bahkan dapat mengunggulinya untuk tujuan tertentu.
+Contoh aplikasi dari visi komputer mencakup sistem untuk :
+-	Pengendalian proses, (misalnya, sebuah robot industri atau kendaraan otonom).
+-	Mendeteksi peristiwa, (misalnya, untuk pengawasan visual atau orang menghitung).
+-	Mengorganisir informasi, (misalnya, untuk pengindeksan database foto dan gambar 	urutan).
+-	Modeling benda atau lingkungan, (misalnya, inspeksi industrim analisis citra medis 	atau model topografi).
+Interaksi, (misalnya, sebagai input ke perangkat untuk interaksi komputer dan manusia).
+
+f.	Robotika
+Robot adalah peralatan manipulator yang mampu diprogram, mempunyai berbagai fungsi, yang dirancang untuk memindahkan barang, komponen-komponen, peralatan, atau alat-alat khusus, melalui berbagai gerakan terprogram untuk pelaksanaan berbagai pekerjaan. Secara mendasar, robot memilik banyak hal yang sama dengan otomasi internal, mereka memanfaatkan piranti tenaga yangserupa (seperti listrik, hidraulik, atau pneumatik) dan mereka dikendalikan melalui urutan-urutan yang telah dikendalikan melalui program, yang memungkinkan mesin tersebut pada posisi yang diinginkan. Lingkungan seperti ini didefinisikan sebagai lingkungan Dalam perkembangan mesin yang terotomatisasi ini akan menjadi bermacam-macam spesifikasi tergantung kebutuhan aktifitas manusia terhadap otomatisasi industri dan robotika.
+
